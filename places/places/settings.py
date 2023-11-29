@@ -68,7 +68,7 @@ DATABASES = {
         'NAME': 'places_db',  # Cambiado a 'places_db'
         'USER': 'places_user',  # Cambiado a 'places_user'
         'PASSWORD': 'isis2503',
-        'HOST': '0.0.0.0',
+        'HOST': '10.128.0.7',
         'PORT': '5432',
     }
 }
